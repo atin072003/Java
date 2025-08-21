@@ -1,4 +1,0 @@
-### Java provides 4 types of inner classes:
-1. Non-static (Regular) Inner Class
-Defined inside another class without static.
-Object of inner class depends on outer class object.
